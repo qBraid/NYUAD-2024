@@ -30,19 +30,10 @@ problem of your choice._
 - Financial Modeling
 - Gaming
 
-**Implementation requirements**:
-
-- Must utilize quantum hardware available through preferably IBM. However, we
-  set also have AWS devices available as well.
-- You are also free to use any technology which allows you to solve the
-  challenge.
-
-**Bonus requirements**:
-
-- Incorporate noisy simulation through IBM
-- Incorporate a hybrid quantum-classical task through IBM
-
+  
 # qBraid Tutorials
+
+[qBraid Lab Tutorials](https://github.com/qbraid/qbraid-lab-demo)
 
 Here, we provide useful tutorials on how to use qBraid-Lab, along with tutorials
 on quantum computing, using IBM or Amazon Braket. The ladder were provided by
@@ -50,15 +41,3 @@ the [qiskit-tutorials](https://github.com/qiskit/qiskit-tutorials) and the
 [amazon-braket-examples](https://github.com/aws/amazon-braket-examples) github
 repositories repsectively.
 
-The repository is structured as follows:
-
-- [Setting up Qiskit environment](qbraid_qiskit_setup/accessing_ibm_hardware.ipynb)
-
----
-
-## <a name="qbraid">Setting up Qiskit environment in qBraid</a>
-
-- [**Install Qiskit in qBraid-Lab**](qbraid_qiskit_setup/accessing_ibm_hardware.ipynb)
-
-
----
